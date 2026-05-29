@@ -1,5 +1,5 @@
 export const getRecommendations = async (payload) => {
-  const res = await fetch("http://localhost:3000/api/recommend", {
+  const res = await fetch("https://car-dekho-bac.onrender.com/api/recommend", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
