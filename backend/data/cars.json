@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Honda City",
+    "price": 1400000,
+    "fuel": "Petrol",
+    "mileage": 18,
+    "safety": 5
+  },
+  {
+    "name": "Hyundai Creta",
+    "price": 1700000,
+    "fuel": "Petrol",
+    "mileage": 16,
+    "safety": 4
+  },
+  {
+    "name": "Tata Nexon",
+    "price": 1200000,
+    "fuel": "Diesel",
+    "mileage": 24,
+    "safety": 5
+  },
+  {
+    "name": "Maruti Baleno",
+    "price": 900000,
+    "fuel": "Petrol",
+    "mileage": 22,
+    "safety": 3
+  }
+]
